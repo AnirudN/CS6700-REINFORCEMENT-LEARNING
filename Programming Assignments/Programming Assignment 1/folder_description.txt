@@ -1,0 +1,9 @@
+SARSA_epsilon_greedy_softmax_12exp : contains 12 files of 6 experiments each run twice; first 6 on epsilon greedy, last 6 on softmax.
+
+Q-learning_epsilon_greedy_softmax_12exp : contains 12 files of 6 experiments each run twice; 6 on epsilon greedy, last 6 on softmax.
+
+iteration2_softmax_SARSA : 2nd iteration for softmax policy-SARSA hyperparameters tuninng.
+
+iteration2_softmax_Q-learning : 2nd iteration for softmax policy-Q-learning hyperparameters tuninng.
+
+RL_assignment_1_CE21B014_ED21B038.pdf : final report made by ED21B038, CE21B014
